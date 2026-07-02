@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "cocaine_bag"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "A",
+      "C"
+    ],
+    "key": {
+      "A": {
+        "item": "nirvana:cocaina",
+        "data": 0
+      },
+      "C": {
+        "item": "nirvana:plastic",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "nirvana:cocaine_bag",
+      "count": 1
+    }
+  }
+}
